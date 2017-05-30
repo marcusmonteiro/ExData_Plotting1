@@ -112,3 +112,6 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+### Marcus' Instructions
+
+To make all the `png` files, you can execute `source('plot_all.R`). The script will install the required packages, download the data set if it's not present and then make the `png`s.
